@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zeoe15iul-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zeoe15iul-python
